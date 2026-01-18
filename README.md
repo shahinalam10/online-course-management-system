@@ -83,3 +83,7 @@ For a detailed walkthrough of the project, watch the video below:
 This project was developed as part of a Laravel Job Interview Task.
 I've put my full effort into making this application professional, complete, and beyond the given requirements (including bonus features like full CRUD, search, and real-time validation).
 Thanks for taking the time to review Course Craft!
+
+## Author
+Md. Shahin Alam
+https://github.com/shahinalam10
